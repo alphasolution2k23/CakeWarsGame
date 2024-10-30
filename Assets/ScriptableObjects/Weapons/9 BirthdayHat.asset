@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 190875d71d967b04e9ef158ba23635b7, type: 3}
+  m_Name: 9 BirthdayHat
+  m_EditorClassIdentifier: 
+  weaponName: Birthday Hat
+  description: Toss this fancy headgear for a quirky yet devastating attack! Trap
+    enemies inside and crush them with upgraded precision and power.
+  weaponImage: {fileID: 21300000, guid: c67816d24ae86da4d9c571e8c5da3796, type: 3}
+  totalAmmo: 3
+  ammoPerReload: 3
+  weaponId: 9
